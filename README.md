@@ -1,7 +1,6 @@
-#HW3 First-Name Last-Name
-TODO - Update your name in this readme.
+#HW3 Justice Chase
 
-TODO - Add a badge from travis CI here
+[![Build Status](https://travis-ci.com/csc340-03-spring-2016/csc340-03-hw3-JusticeC.svg?token=JpAytEHAhfvGFwyYaAc2&branch=master)](https://travis-ci.com/csc340-03-spring-2016/csc340-03-hw3-JusticeC)
 
 ##Problem statement:
 

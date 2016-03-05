@@ -1,4 +1,4 @@
-#HW3 Justice Chase
+#HW3 Justice Chase 
 
 [![Build Status](https://travis-ci.com/csc340-03-spring-2016/csc340-03-hw3-JusticeC.svg?token=JpAytEHAhfvGFwyYaAc2&branch=master)](https://travis-ci.com/csc340-03-spring-2016/csc340-03-hw3-JusticeC)
 
